@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Science Forum Nashik - Association of Persons (AOP)</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; color: #333; }
+        header { background: #007bff; color: white; padding: 1rem; text-align: center; }
+        nav { background: #f8f9fa; padding: 0.5rem; text-align: center; }
+        nav a { margin: 0 1rem; text-decoration: none; color: #007bff; }
+        section { padding: 2rem; max-width: 800px; margin: 0 auto; }
+        footer { background: #f8f9fa; padding: 1rem; text-align: center; border-top: 1px solid #ddd; }
+        img { max-width: 100%; height: auto; }
+        .document { border: 1px solid #ddd; padding: 1rem; margin: 1rem 0; }
+        ul { list-style-type: disc; padding-left: 1.5rem; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>{{LOGO_OF_AOP}} <!-- Replace: e.g., <img src="logo.png" alt="Science Forum Nashik Logo" style="max-height: 100px;"> --></h1>
+        <p>Promoting Scientific Temper in Nashik Since 1978</p>
+    </header>
+    
+    <nav>
+        <a href="#deed">Deed</a>
+        <a href="#object">Objectives</a>
+        <a href="#important-decisions">Important Decisions</a>
+        <a href="#future-events">Future Events</a>
+        <a href="#past-events">Past Events</a>
+    </nav>
+    
+    <section id="deed">
+        <h2>AOP Deed (Established August 17, 2025)</h2>
+        <div class="document">
+            {{DEED}} <!-- Replace: e.g., <iframe src="aop_deed.pdf" width="100%" height="600px"></iframe> -->
+            <p><a href="{{DEED_URL}}" target="_blank">Download Full Deed</a></p> <!-- e.g., href="aop_anonymous.txt" or Google Drive link -->
+        </div>
+    </section>
+    
+    <section id="object">
+        <h2>Objectives (Section 2 of Deed)</h2>
+        <ul>
+            <li><strong>2.1:</strong> Inculcate scientific temper by questioning and using scientific methods, avoiding dogmas.</li>
+            <li><strong>2.2:</strong> Develop interests in science content.</li>
+            <li><strong>2.3:</strong> Facilitate discussions on current developments in science, technology, and their impacts.</li>
+            <li><strong>2.4:</strong> Foster curiosity and joyful learning to propagate scientific thinking.</li>
+            <li><strong>2.5:</strong> Assist in solving daily problems systematically, creatively, and sustainably.</li>
+            <li><strong>2.6:</strong> Use ICT for cost-effective achievement of objectives.</li>
+        </ul>
+        <!-- {{OBJECT}} is pre-filled above; add more if needed -->
+    </section>
+    
+    <section id="important-decisions">
+        <h2>Important Decisions (e.g., Resolutions from AOP Forms)</h2>
+        <ul>
+            <li>{{IMPORT_DECISIONS_ITEM_1}} <!-- e.g., "Address Change Approved via Form 1 (Nov 2025)" --></li>
+            <li>{{IMPORT_DECISIONS_ITEM_2}} <!-- e.g., "First Member Registrations via Form 6.A (Aug 2025)" --></li>
+            <!-- Add more <li> lines as needed -->
+        </ul>
+    </section>
+    
+    <section id="future-events">
+        <h2>Important Future Events</h2>
+        <ul>
+            <li>{{FUTURE_EVENT_1}}: {{FUTURE_EVENT_1_DATE}} - {{FUTURE_EVENT_1_DESCRIPTION}} <!-- e.g., "Science Workshop: Dec 15, 2025 - Hands-on Experiments for Youth" --></li>
+            <li>{{FUTURE_EVENT_2}}: {{FUTURE_EVENT_2_DATE}} - {{FUTURE_EVENT_2_DESCRIPTION}} <!-- Add more --></li>
+        </ul>
+    </section>
+    
+    <section id="past-events">
+        <h2>Past Events</h2>
+        <ul>
+            <li>{{PAST_EVENT_1}}: {{PAST_EVENT_1_DATE}} - {{PAST_EVENT_1_DESCRIPTION}} <!-- e.g., "AOP Formation Meeting: Aug 17, 2025 - Deed Signing and Discussions" --></li>
+            <li>{{PAST_EVENT_2}}: {{PAST_EVENT_2_DATE}} - {{PAST_EVENT_2_DESCRIPTION}} <!-- e.g., "Informal Science Talk: Oct 2025 - Current Tech Impacts" --></li>
+        </ul>
+    </section>
+    
+    <footer>
+        <p><strong>Caveat:</strong> {{CAVEAT}} <!-- e.g., "All members are jointly and severally liable (Section 1). Disputes resolved per Arbitration Act (Section 8). No political/religious agendas (Section 9.4)." --></p>
+        <p>&copy; {{COPYRIGHT_YEAR}} Science Forum Nashik AOP. All rights reserved. Office: Pravin Prabhakar Joshi, N-9/C-12/4, Tuljabhawani Chowk, Pangre Mala, Old CIDCO, Nashik-422009.</p> <!-- Set COPYRIGHT_YEAR to 2025 -->
+    </footer>
+</body>
+</html>
