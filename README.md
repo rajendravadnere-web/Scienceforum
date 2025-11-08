@@ -67,7 +67,8 @@ All the decisions taken by the AOP as discussed and finalised in the various mee
 
 <!-- ===== CAVEAT ===== -->
 <div style="background:#fff3cd; padding:15px; border-left:5px solid #ffc107; margin:20px 0;">
-  <strong>Caveat:</strong> [CAVEAT]
+  <strong>Caveat:</strong> 
+   Users are advised to read the conditions for participating in the activities of the AOP. 
   <!-- Example: All members are jointly and severally liable for AOP liabilities as per Section 1 of the Deed. -->
 </div>
 
