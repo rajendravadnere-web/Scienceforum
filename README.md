@@ -74,7 +74,7 @@ All the decisions taken by the AOP as discussed and finalised in the various mee
 
 <!-- ===== COPYRIGHT ===== -->
 <footer style="text-align:center; margin-top:50px; color:#666;">
-  Copywrite: All rights reserved. No part of any content on this website be reproduced or used for commercial or other purposes without express permission of Science Forum, Nashik (AOP).
+  Copy right: All rights reserved. No part of any content on this website be reproduced or used for commercial or other purposes without express permission of Science Forum, Nashik (AOP).
   <!-- Example: © 2025 Science Forum Nashik AOP. All rights reserved. -->
-  <br>Website hosted free forever on GitHub Pages • Domain: scienceforumnashik.in
+ 
 </footer>
