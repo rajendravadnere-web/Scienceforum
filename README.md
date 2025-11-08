@@ -1,10 +1,10 @@
 # Scienceforum
 Science Forum Nashik is an Association of Persons 
 <!-- ===== LOGO ===== -->
-<img src="[LOGO]" alt="Science Forum Nashik Logo" width="150">
+<img src="Logo.jpg" alt="Science Forum Nashik Logo" width="150">
 
 <!-- ===== DEED PDF ===== -->
-<a href="[DEED_PDF]" target="_blank">Download Full AOP Deed (1 Sep 2025)</a>
+<a href="[DEED_PDF]" target="_blank">Download Full AOP Deed (25 Sep 2025)</a>
 
 <!-- ===== OBJECTIVES (Section 2) ===== -->
 <h2>Our Objectives</h2>
