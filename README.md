@@ -2,8 +2,11 @@
 # Science Forum Nashik
 
 An informal body in the name of “Science Forum Nashik” has been acting since 1978 and conducting various programs, (like lectures by scientists, Hobby Classes during vacation of school children, workshops for teachers and competitions making video clips showing activity-based learning activities for school children) for advancement of the cause of developing scientific temper, creating awareness and developing interest in the young minds and in the public in general, a need for registering the body under Association of Persons was realised by the members of the above-mentioned informal body to address to the various legal, financial and administrative issues. Therefore, an Association of Persons (hereinafter called “the AOP”) in the name “Science Forum Nashik”  was formed comprising of eleven of the members of the above-mentioned informal with a view of adding more persons interested in the causes being espoused by the body and with provision that the members not interested due to any reasons may opt out of the body. 
-<p> The YouTube Channel of the Science Forum showing various activities may be found here: https://www.youtube.com/@scienceforumnashik3344/featured
-</p>
+<p>The Science Forum Nashik strives to use modern Information Technolgoy for awareness in children, optimise expenditures and maximising the outreach.</p>
+
+The YouTube Channel of the Science Forum showing various activities may be found [here:](https://www.youtube.com/@scienceforumnashik3344/featured)
+
+
 
 ## Our Objectives (Section 2 of Deed)
 
@@ -35,11 +38,9 @@ As of 01 Nov 2025 – see full Deed PDF below.
 Teacher's Workshop on Activity Based Teaching: [YouTube Playlist]((https://www.youtube.com/watch?v=DlFy56HWqBw&list=PLP7UR0ZnLgb6VAlMbeMMR2cTvFTpTNeAz))
 Vacation Hobby Classes May-June 2025  [YouTube Playlist]((https://www.youtube.com/watch?v=WAuGKdc50nc&list=PLP7UR0ZnLgb6jEZCnYkxf1CSWJZScO596))
 
-## Full AOP Deed
-[Download Signed Deed (1 Sep 2025)](deed-signed.pdf) *(upload your PDF to repo root)*
 
 ## Caveat
-Members are jointly and severally liable for AOP liabilities as per Section 1 of the Deed.
+Participants of the various activities are expected to read, understand and abide by the terms and conditions of the activities. The Science Forum is a no-profit, non-political non-governmental platform for advancement of science and technology edication, open to all strata of the society.
 
 ## Copyright
 © 2025 Science Forum Nashik AOP. All rights reserved.  
