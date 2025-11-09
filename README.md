@@ -1,4 +1,6 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <img src="Logo.jpg" alt="Science Forum Nashik Logo" width="150">
+
 # Science Forum Nashik
 
 An informal body in the name of “Science Forum Nashik” has been acting since 1978 and conducting various programs, (like lectures by scientists, Hobby Classes during vacation of school children, workshops for teachers and competitions making video clips showing activity-based learning activities for school children) for advancement of the cause of developing scientific temper, creating awareness and developing interest in the young minds and in the public in general, a need for registering the body under Association of Persons was realised by the members of the above-mentioned informal body to address to the various legal, financial and administrative issues. Therefore, an Association of Persons (hereinafter called “the AOP”) in the name “Science Forum Nashik”  was formed comprising of eleven of the members of the above-mentioned informal with a view of adding more persons interested in the causes being espoused by the body and with provision that the members not interested due to any reasons may opt out of the body. 
@@ -23,8 +25,7 @@ The YouTube Channel of the Science Forum showing various activities may be found
 
 ## List of Members
 As of 01 Nov 2025 – see full Deed PDF below.
-[Deed Document Text](https://drive.google.com/file/d/1Eq701PrOZye3QMLL-CditYYc9pdmk678/view?usp=drive_link)
-
+[Deed Document Text](https://drive.google.com/file/d/1Eq701PrOZye3QMLL-CditYYc9pdmk678/view?usp=sharing)
 ## Important Decisions – 
 
 **Meeting Date:** 28 October 2025 | 1930 Hrs | Virtual  
