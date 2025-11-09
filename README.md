@@ -2,7 +2,7 @@
 # Science Forum Nashik
 
 An informal body in the name of “Science Forum Nashik” has been acting since 1978 and conducting various programs, (like lectures by scientists, Hobby Classes during vacation of school children, workshops for teachers and competitions making video clips showing activity-based learning activities for school children) for advancement of the cause of developing scientific temper, creating awareness and developing interest in the young minds and in the public in general, a need for registering the body under Association of Persons was realised by the members of the above-mentioned informal body to address to the various legal, financial and administrative issues. Therefore, an Association of Persons (hereinafter called “the AOP”) in the name “Science Forum Nashik”  was formed comprising of eleven of the members of the above-mentioned informal with a view of adding more persons interested in the causes being espoused by the body and with provision that the members not interested due to any reasons may opt out of the body. 
-<p>The YouTube Channel of the Science Forum showing various activities may be found [here]("https://www.youtube.com/@scienceforumnashik3344/featured)
+<p> The YouTube Channel of the Science Forum showing various activities may be found here: https://www.youtube.com/@scienceforumnashik3344/featured
 </p>
 
 ## Our Objectives (Section 2 of Deed)
@@ -22,7 +22,7 @@ An informal body in the name of “Science Forum Nashik” has been acting since
 As of 01 Nov 2025 – see full Deed PDF below.
 [Deed Document Text](https://drive.google.com/file/d/1Eq701PrOZye3QMLL-CditYYc9pdmk678/view?usp=drive_link)
 
-## Important Decisions – Form 9.1.B
+## Important Decisions – 
 
 **Meeting Date:** 28 October 2025 | 1930 Hrs | Virtual  
 [Notification of all the Items, Annexures and Decisions by the Account Holders:](https://drive.google.com/file/d/1ZK5zA2C1DYTtx6EJECP_LD-GsDQdhCgZ/view?usp=sharing )
@@ -33,6 +33,7 @@ As of 01 Nov 2025 – see full Deed PDF below.
 
 ## Past Events
 Teacher's Workshop on Activity Based Teaching: [YouTube Playlist]((https://www.youtube.com/watch?v=DlFy56HWqBw&list=PLP7UR0ZnLgb6VAlMbeMMR2cTvFTpTNeAz))
+Vacation Hobby Classes May-June 2025  [YouTube Playlist]((https://www.youtube.com/watch?v=WAuGKdc50nc&list=PLP7UR0ZnLgb6jEZCnYkxf1CSWJZScO596))
 
 ## Full AOP Deed
 [Download Signed Deed (1 Sep 2025)](deed-signed.pdf) *(upload your PDF to repo root)*
