@@ -22,7 +22,8 @@ As of 01 Nov 2025 – see full Deed PDF below.
 
 ## Important Decisions – Form 9.1.B
 
-**Meeting Date:** 28 October 2025 | 1930 Hrs | Hybrid  
+**Meeting Date:** 28 October 2025 | 1930 Hrs | Virtual  
+Decisions: (https://drive.google.com/file/d/15nwMyk16dpE5UIqXKjtEUJEP5Tbovivs/view?usp=sharing)
 **Prepared by:** Prof. Dr. Rajendra V Vadnere  
 **Circulated:** 25 Oct 2025  
 
