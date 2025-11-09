@@ -31,7 +31,7 @@ As of 01 Nov 2025 – see full Deed PDF below.
 - Video Clip Competition 2026 to be concluded on 28 February 2026 (Under Development)
 
 ## Past Events
-Teacher's Workshop on Activity Based Teaching: [YouTube Playlist](https://github.com/rajendravadnere-web/Science_Forum_Nsk/blob/main/decisions/october-28-2025.pdf)
+Teacher's Workshop on Activity Based Teaching: [YouTube Playlist]((https://www.youtube.com/watch?v=DlFy56HWqBw&list=PLP7UR0ZnLgb6VAlMbeMMR2cTvFTpTNeAz))
 
 ## Full AOP Deed
 [Download Signed Deed (1 Sep 2025)](deed-signed.pdf) *(upload your PDF to repo root)*
