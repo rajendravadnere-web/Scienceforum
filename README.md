@@ -36,6 +36,7 @@ As of 01 Nov 2025 – see full Deed PDF below.
 
 ## Past Events
 Teacher's Workshop on Activity Based Teaching: [YouTube Playlist]((https://www.youtube.com/watch?v=DlFy56HWqBw&list=PLP7UR0ZnLgb6VAlMbeMMR2cTvFTpTNeAz))
+<p></p>
 Vacation Hobby Classes May-June 2025  [YouTube Playlist]((https://www.youtube.com/watch?v=WAuGKdc50nc&list=PLP7UR0ZnLgb6jEZCnYkxf1CSWJZScO596))
 
 
