@@ -2,7 +2,7 @@
 # Science Forum Nashik
 
 An informal body in the name of “Science Forum Nashik” has been acting since 1978 and conducting various programs, (like lectures by scientists, Hobby Classes during vacation of school children, workshops for teachers and competitions making video clips showing activity-based learning activities for school children) for advancement of the cause of developing scientific temper, creating awareness and developing interest in the young minds and in the public in general, a need for registering the body under Association of Persons was realised by the members of the above-mentioned informal body to address to the various legal, financial and administrative issues. Therefore, an Association of Persons (hereinafter called “the AOP”) in the name “Science Forum Nashik”  was formed comprising of eleven of the members of the above-mentioned informal with a view of adding more persons interested in the causes being espoused by the body and with provision that the members not interested due to any reasons may opt out of the body. 
-
+<p>The YouTube Channel of the Science Forum showing various activities may be found [here](href="https://www.youtube.com/@scienceforumnashik3344/featured)</p>
 
 ## Our Objectives (Section 2 of Deed)
 
@@ -19,38 +19,19 @@ An informal body in the name of “Science Forum Nashik” has been acting since
 
 ## List of Members
 As of 01 Nov 2025 – see full Deed PDF below.
+[Deed Document Text](https://drive.google.com/file/d/1Eq701PrOZye3QMLL-CditYYc9pdmk678/view?usp=drive_link)
 
 ## Important Decisions – Form 9.1.B
 
 **Meeting Date:** 28 October 2025 | 1930 Hrs | Virtual  
-[Decisions:](https://drive.google.com/file/d/15nwMyk16dpE5UIqXKjtEUJEP5Tbovivs/view?usp=sharing)
-**Prepared by:** Prof. Dr. Rajendra V Vadnere  
-**Circulated:** 25 Oct 2025  
-
-
-
-**Item No. 28102025/01:** To discuss proposal of approving various forms...  
-[Proposal](https://docs.google.com/document/d/1uPBBtE7r-dxs6Fa68enzxCxcT8la/edit?usp=sharing&ouid=117018900723103727942&rtpof=true&sd=true) | 
-[Draft Forms](https://docs.google.com/document/d/110cIvBQOHBC1HsfdKWSN3_HsdrwRnIC/edit?usp=sharing) | 
-[Advantages of Hierarchical Numbering](https://docs.google.com/document/d/12Bev7ewdI5ymRTERXlhD7_XIcF6wFDlz/edit?usp=sharing) | 
-[ChatGPT Review](https://docs.google.com/document/d/1yhhTEkrZNlcerHGaSPYPDW0trwJv_j/edit?usp=sharing)
-
-**Item No. 28102025/02:** LG Mobile Laboratory, SPPU collaboration  
-[Proposal](https://docs.google.com/document/d/188KAWzQF-lyzA8AaI2RWL_i5dxwVV9/edit?usp=sharing)
-
-**Item No. 28102025/03:** Teacher Workshop for Hands-on Videos  
-[Proposal](https://docs.google.com/document/d/1R0GXPFVc17Ml-Qg8lmIrE6YAKK4QkV/edit?usp=sharing)
-
-**Full 4-Page Form 9.1.B PDF:**  
-[Download/ View October 28 Meeting PDF](https://drive.google.com/file/d/1ZK5zA2C1DYTtx6EJECP_LD-GsDQdhCgZ/view?usp=sharing)
-
+[Notification of all the Items, Annexures and Decisions by the Account Holders:](https://drive.google.com/file/d/1ZK5zA2C1DYTtx6EJECP_LD-GsDQdhCgZ/view?usp=sharing )
 
 
 ## Upcoming Events
-- Video Clip Competition 2026 (Under Development)
+- Video Clip Competition 2026 to be concluded on 28 February 2026 (Under Development)
 
 ## Past Events
-- 28 Oct 2025: First Formal Hybrid Meeting
+Teacher's Workshop on Activity Based Teaching: [YouTube Playlist](https://github.com/rajendravadnere-web/Science_Forum_Nsk/blob/main/decisions/october-28-2025.pdf)
 
 ## Full AOP Deed
 [Download Signed Deed (1 Sep 2025)](deed-signed.pdf) *(upload your PDF to repo root)*
